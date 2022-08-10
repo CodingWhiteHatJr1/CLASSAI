@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    background-color: lightpink;
+    box-shadow: 5px 5px 5px magenta;
+    margin: 0;
+    font-family: fantasy;
+    font-size: 30px;
+    color: black;
+}
+
+.note{
+    color:black;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: pink;
+}
+
+.main_right_footer{
+    position: fixed;
+    font-family: cursive;
+    color: darkblue;
+    background-color: bisque;
+    align-items: center;
+    bottom: 0;
+    font-size: 25px;
+}
+
+canvas{
+    border: 10px inset purple;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px plum;
+}
